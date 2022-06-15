@@ -1,5 +1,5 @@
 {
-    "name": "hallo-w",
+    "name": "thermostat-v1",
     "description": "",
     "dependencies": {
         "core": "*",

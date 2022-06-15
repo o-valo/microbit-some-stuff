@@ -9,7 +9,7 @@ basic.forever(function () {
         . . . . .
         `)
     t1 = input.temperature()
-    tx = 30
+    tx = 20
     if (t1 <= tx) {
         basic.showIcon(IconNames.StickFigure)
         basic.showNumber(t1)
